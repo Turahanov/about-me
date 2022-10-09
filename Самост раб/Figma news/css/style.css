@@ -1,0 +1,127 @@
+@import url(./font.css);
+
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+
+.container{
+    margin: 0 auto;
+    display: flex;
+    max-width: 1400px;
+} 
+  
+  
+.con1{
+    flex-direction: column;
+    justify-content: space-between;
+    background: #B71C1C;
+    display: flex;
+  }
+  
+.con1__h1{
+    font-family: 'Roboto-Bold', sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 22px;
+    margin: 8px 14px ;
+    color: #FFFFFF;
+  }
+  
+.con1__p1{
+    font-family: 'Roboto-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #EBEBEB;
+    margin-bottom: 14px;
+    margin-right: 14px;
+    margin-left: 14px;
+  
+  }
+  
+.con2{
+    background: #6A1B9A;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+.con2__h2{
+    font-family: 'Roboto-Bold',sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+  }
+  
+.con2__p2{
+    font-family: 'Roboto-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #EBEBEB;
+    margin: 8px 14px;
+  
+  }
+  
+.con3{
+    display: flex;
+    flex-direction: column;
+    background: #303F9F;
+    justify-content: space-between;
+  }
+  
+.con3__h3{
+    font-family: 'Roboto-Bold',;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin: 8px 14px;
+  }
+  
+.con3__p3{
+    font-family: 'Roboto-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #EBEBEB;
+    margin-right: 14px;
+    margin-left: 14px;
+    margin-bottom: 14px;
+  
+  }
+  
+.con4{
+    background: #00695C;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+.con4__h4{
+    font-family: 'Roboto-Bold',;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 14px;
+    margin-right: 14px;
+    margin-left: 14px;
+  }
+  
+.con4__p4{
+    font-family: 'Roboto-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #EBEBEB;
+    margin: 8px 15px;
+  }

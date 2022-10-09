@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Inter-Bold';
+    src: url(../Fonts/Inter-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url(../Fonts/Inter-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url(../Fonts/Inter-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../Fonts/Montserrat-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url(../Fonts/Inter-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../Fonts/Montserrat-Regular.ttf) format('truetype');
+}
